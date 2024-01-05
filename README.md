@@ -1,4 +1,4 @@
-# Weaver
+# StateProofVerificationOracle
 
 ### Table of contents
 
