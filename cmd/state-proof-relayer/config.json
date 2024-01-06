@@ -1,0 +1,6 @@
+{
+    "LogPath": "log.txt",
+    "GenesisRound": 35979623,
+    "StatePath": "state.json",
+    "BackoffTime": 60000
+}

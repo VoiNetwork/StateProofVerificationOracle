@@ -25,7 +25,7 @@ function main() {
   fi
 
   printf "%b running program...\n" "${INFO_PREFIX}"
-  go run -ldflags "-X main.Version=$version" cmd/weaver/main.go
+  go run -ldflags "-X main.Version=$version" cmd/state-proof-relayer/main.go
 
 
   printf "%b done!\n" "${INFO_PREFIX}"
